@@ -1,5 +1,4 @@
 #Instructions to run the "run_analysis.R" script
--------------------------------------
 
 1- Download the original dataset at :
 -------------------------------------
